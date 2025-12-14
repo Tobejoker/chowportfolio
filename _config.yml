@@ -13,21 +13,21 @@ title: "Digital Teaching Portfolio"
 title_separator: "-"
 name: &name "Norah Chow"
 description: "The Digital Teaching Portfolio of Norah Chow for ENG609-001 (F25)" # Update this with a general description of your site, this is the default if not overridden by a page
-url: https://chowportfolio.github.io
+url: "https://tobejoker.github.io"
   # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
   # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "Tobejoker/chowportfolio.github.io"
+baseurl: "/chowportfolio" # the subpath of your site, e.g. "/blog"
+repository: "tobejoker/chowportfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "https://gws.as.uky.edu/sites/default/files/styles/large/public/pictures/Photo1.jpg?itok=VQPTOujt"
   name: "Norah Chow"
   pronouns: "she/they"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "Norah Chow Chung Yan (she/they) is a Ph.D. student in the Department of Gender and Women's Studies at the University of Kentucky. Her research focuses on transnational and queer Chinese media fandoms and the inter-Asian historical trajectories of gender and sexual conceptions."
   location: "Lexington, KY/Hong Kong"
   employer: "University of Kentucky"
   uri: "https://gws.as.uky.edu/users/cch397"
@@ -51,7 +51,7 @@ author:
   # bitbucket: # Username - Update with your username on the site
   # codepen: # Username
   # dribbble: # Username
-  github: "TObejoker"
+  github: "Tobejoker"
   # kaggle: # Username  
   # stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -140,7 +140,7 @@ yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username: &twitter 
+  username: "" # add your Twitter/X handle here, or leave empty
 facebook:
   username:
   app_id:
@@ -160,7 +160,7 @@ social:
 
     # Analytics
 analytics:
-  provider: "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: false # use boolean false (not the string "false")
   google:
     tracking_id:
 
@@ -281,7 +281,7 @@ defaults:
     layout: single
     author_profile: true
     share: true
-    comment: true
+    comments: true
 # _talks
 - scope:
     path: ""
