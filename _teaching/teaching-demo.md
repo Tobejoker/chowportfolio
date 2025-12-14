@@ -1,7 +1,6 @@
 ---
 title: "Digital Teaching Demonstration"
-collection: teaching
-permalink: /teaching/teaching demo
+permalink: /teaching/teaching demo/
 date: 2014-12-13
 ---
 

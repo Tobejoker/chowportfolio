@@ -1,7 +1,6 @@
 ---
 title: "Philosophy of Teaching"
-permalink: /philosophy/philosophy
-collection: philosophy
+permalink: /philosophy/philosophy/
 date: 2025-10-09
 ---
 Communication is an essential part of social and political life. Teaching writing in higher education therefore carries political stakes in every aspect. I start designing my syllabus with the purpose of nurturing citizens and professionals, encouraging the class to engage with writing with social awareness. As an educator, I try to bridge my transnational expertise with students’ intimate experiences. For example, I have asked my students to discuss the social media ban on teenagers in Australia, a topic that allowed them to draw on personal experiences while critically engaging with social issues through their distinct voices.

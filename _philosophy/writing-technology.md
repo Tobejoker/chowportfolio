@@ -1,8 +1,6 @@
 ---
 title: "Writing Technology"
-collection: philosophy
-permalink: /philosophy/writing-technology
-date: 2025-10-29
+permalink: /philosophy/writing-technology/
 ---
 ## GenAI Policy: An Overview
 

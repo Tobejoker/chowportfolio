@@ -1,6 +1,5 @@
 ---
 title: "Reflection"
-collection: philosophy
-permalink: /philosophy/reflection
+permalink: /philosophy/reflection/
 date: 2025-12-13
 ---

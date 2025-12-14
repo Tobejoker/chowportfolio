@@ -2,7 +2,7 @@
 title: "Digital Rhetoric Assignment"
 collection: assignment
 type: "Assignment"
-permalink: /assignment/digital-rhetoric
+permalink: /assignment/digital-rhetoric/
 date: 2025-11-18
 ---
 ## Prompt
