@@ -1,6 +1,7 @@
 ---
+layout: page
 title: "Digital Teaching Demonstration"
-permalink: /teaching/teaching demo/
+permalink: /teaching-demo/
 date: 2014-12-13
 ---
 

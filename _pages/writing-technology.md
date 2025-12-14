@@ -1,6 +1,7 @@
 ---
+layout: page
 title: "Writing Technology"
-permalink: /philosophy/writing-technology/
+permalink: /writing-technology/
 ---
 ## GenAI Policy: An Overview
 

@@ -1,5 +1,6 @@
 ---
+layout: page
 title: "Reflection"
-permalink: /philosophy/reflection/
+permalink: /reflection/
 date: 2025-12-13
 ---

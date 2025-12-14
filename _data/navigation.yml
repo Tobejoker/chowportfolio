@@ -9,19 +9,19 @@
 
 main:
 - title: "Teaching Philosophy"
-  url: /philosophy/philosophy/
+  url: /philosophy/
 
 - title: "Writing Technology"
-  url: /philosophy/writing-technology/
+  url: /writing-technology/
 
 - title: "Rhetoric Assignment"
-  url: /assignment/digital-rhetoric/
+  url: /digital-rhetoric/
 
 - title: "Teaching Demo"
-  url: /teaching/teaching-demo/
+  url: /teaching-demo/
 
 - title: "Reflection"
-  url: /philosophy/reflection/
+  url: /reflection/
 
 # - title: "CV"
 #  url: /cv/
