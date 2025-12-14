@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Digital Teaching Portfolio: Norah Chow (ENG609-001)(F25)"
+title: "Digital Teaching Portfolio (ENG609-001)(F25)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is 
+Welcome to my Digital Teaching Portfolio for ENG609-001 (Fall 2025). This site serves as a showcase of my teaching philosophy, rhetorical assignment, and digital teaching demonstration completed for the course. It reflects my commitment to integrating technology into education and fostering an engaging learning environment. Explore the sections below to learn more about my approach and experiences in teaching.
 
 ## Map
 

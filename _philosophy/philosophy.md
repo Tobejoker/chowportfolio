@@ -1,6 +1,6 @@
 ---
 title: "Philosophy of Teaching"
-permalink: /philosophy/teaching-philosophy
+permalink: /philosophy/philosophy
 collection: philosophy
 date: 2025-10-09
 ---
