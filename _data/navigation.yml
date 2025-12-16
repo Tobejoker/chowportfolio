@@ -8,9 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-- title: "Teaching Philosophy"
-  url: /philosophy/
-
 - title: "Writing Technology"
   url: /writing-technology/
 

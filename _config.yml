@@ -27,7 +27,7 @@ author:
   avatar: "https://gws.as.uky.edu/sites/default/files/styles/large/public/pictures/Photo1.jpg?itok=VQPTOujt"
   name: "Norah Chow"
   pronouns: "she/they"
-  bio: "Norah Chow Chung Yan (she/they) is a Ph.D. student in the Department of Gender and Women's Studies at the University of Kentucky. Her research focuses on transnational and queer Chinese media fandoms and the inter-Asian historical trajectories of gender and sexual conceptions."
+  bio: "A Ph.D. student in the Department of Gender and Women's Studies at the University of Kentucky. Their research focuses on transnational and queer Chinese media fandoms and the inter-Asian historical trajectories of gender and sexual conceptions."
   location: "Lexington, KY/Hong Kong"
   employer: "University of Kentucky"
   uri: "https://gws.as.uky.edu/users/cch397"
@@ -263,25 +263,25 @@ defaults:
     path: ""
     type: teaching
   values:
-    layout: single
+    layout: page
     author_profile: true
     share: true
     comments: true
-# _publications
+# _philosophy
 - scope:
     path: ""
-    type: publications
+    type: philosophy
   values:
-    layout: single
+    layout: page
     author_profile: true
     share: true
     comments: true
-# _portfolio
+# _assignment
 - scope:
     path: ""
-    type: portfolio
+    type: assignment
   values:
-    layout: single
+    layout: page
     author_profile: true
     share: true
     comments: true
