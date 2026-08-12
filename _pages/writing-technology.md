@@ -9,23 +9,23 @@ Generative AI (GenAI) based on Large Language Model (LLM) refers to a type of ar
 
 ## When Using GenAI for Writing May Be a Good Idea:
 
-0. When You Know How to Prompt Them
+1. When You Know How to Prompt Them
    
-- In simple terms, LLM-based GenAI models respond to your requirements, but the level of precision and detail of your instructions could significantly impact the quality, accuracy, and usefulness of their output. Therefore, the ability to produce effective prompts, usually with specific scenarios and step-by-step instructions, ideally with examples, is essential to effective use of AI, resulting in the discipline of prompt engineering. For your reference, here is a database of [GenAI prompt samples developed by Google](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/prompt-gallery).
+   - In simple terms, LLM-based GenAI models respond to your requirements, but the level of precision and detail of your instructions could significantly impact the quality, accuracy, and usefulness of their output. Therefore, the ability to produce effective prompts, usually with specific scenarios and step-by-step instructions, ideally with examples, is essential to effective use of AI, resulting in the discipline of prompt engineering. For your reference, here is a database of [GenAI prompt samples developed by Google](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/prompt-gallery).
 
-1. Provide Helpful Contributions
+2. Provide Helpful Contributions
 
- - As Rationale 0 implies, the analogy of a project manager is illustrative of a fruitful relationship between you and GenAI. For writing tasks, this may be akin to hiring an intimate writing coach or a 24/7 copyeditor at a lesser price, though it does not necessarily reduce your workload or prevent biases (see section below). Motivated by thoughtful prompts, large language models can produce detailed brainstorming ideas and productive feedback for your writings.
+   - As Rationale 1 implies, the analogy of a project manager is illustrative of a fruitful relationship between you and GenAI. For writing tasks, this may be akin to hiring an intimate writing coach or a 24/7 copyeditor at a lesser price, though it does not necessarily reduce your workload or prevent biases (see section below). Motivated by thoughtful prompts, large language models can produce detailed brainstorming ideas and productive feedback for your writings.
 
-2. Enhance Reflective Writing Process
+3. Enhance Reflective Writing Process
 
-- This class frames writing as a process with various stages, often [back and forth](https://writersworkshop.illinois.edu/resources-2/writer-resources/writing-processes/revising/), with different orientations given the purposes and audiences. At the same time, previous studies recognize students’ meaningful engagements with GenAI in their assignments [at different scales](https:/celt.uky.edu/student-ai-use-scale). Leveraging AI in tasks such as proofreading and reviewing could thus render a valuable process of consciously reflecting on your writing as you revise and edit it.
+   - This class frames writing as a process with various stages, often [back and forth](https://writersworkshop.illinois.edu/resources-2/writer-resources/writing-processes/revising/), with different orientations given the purposes and audiences. At the same time, previous studies recognize students’ meaningful engagements with GenAI in their assignments [at different scales](https:/celt.uky.edu/student-ai-use-scale). Leveraging AI in tasks such as proofreading and reviewing could thus render a valuable process of consciously reflecting on your writing as you revise and edit it.
 
-3. Foster Equity and Justice
+4. Foster Equity and Justice
 
- - Language accessibility is an issue of equity and justice. For example, consider the Equal Educational Opportunities Act of 1974 that prompts schools to provide English language support for non-English-speaking students, an immediate response to the [legal efforts from a group of parents of Chinese students](https://en.wikipedia.org/wiki/Lau_v._Nichols). Therefore, using AI to consult about readings and writings could contribute to enhancing language accessibility in professional, academic, or non-native contexts.
+   - Language accessibility is an issue of equity and justice. For example, consider the Equal Educational Opportunities Act of 1974 that prompts schools to provide English language support for non-English-speaking students, an immediate response to the [legal efforts from a group of parents of Chinese students](https://en.wikipedia.org/wiki/Lau_v._Nichols). Therefore, using AI to consult about readings and writings could contribute to enhancing language accessibility in professional, academic, or non-native contexts.
 
-4. Provide Research-backed Insights
+5. Provide Research-backed Insights
 
    - Whereas the best-known GenAI engines are not good at providing diverse, up-to-date, or even real academic sources for your research questions, institutions and corporations have developed tools targeting researchers that provide smart citations and literature overviews. The UKY has currently provided access to such tools, which you could check out [here](https://libguides.uky.edu/genai/resources). Note, however, they are usually stronger in journal articles but not in books because of the databases they draw from.
 
@@ -39,11 +39,11 @@ Acknowledging the advantages of using GenAI for writing does not render me an AI
 
 2. Possibly More Workload (!)
 
-   - Countering the pro-AI reasoning, sometimes GenAI is simply not worth the time if you have specific standards. Their output often needs multiple rounds of adjustment and fine-tuning to match specific assignment requirements, course objectives, and project scopes. In the worst scenario, they keep [falsifying information without admitting it](https://mitsloanedtech.mit.edu/ai/basics/addressing-ai-hallucinations-and-bias/). Remember the analogy of project management? Imagine that you are leading a teammate who has a good attitude but stubbornly refuses to change, is very forgetful, and occasionally puts on airs: GenAI is not a human; they cannot hold accountability for you.
+   - Countering the pro-AI reasoning, sometimes GenAI is simply not worth the time if you have specific standards. Their output often needs multiple rounds of adjustment and fine-tuning to match specific assignment requirements, course objectives, and project scopes. In the worst scenario, they keep [falsifying information without admitting it](https://mitsloanedtech.mit.edu/ai/basics/addressing-ai-hallucinations-and-bias/). Remember the analogy of project management? Imagine that you are leading a teammate who has a good attitude but stubbornly refuses to change, is very forgetful, and occasionally puts on airs: GenAI is not a human; they cannot hold accountability for you. 
 
 3. What About Style?
 
-   - Particularly in this classroom, we value original voice. Yet, texts generated by large language models predict less diverse styles and homogeneous language patterns, leading to a “monoculture” of generated content. Beyond this classroom, relying on GenAI-generated writing might put you in a risky position when reviewers use [AI detectors](https://citl.news.niu.edu/2024/12/12/ai-detectors-an-ethical-minefield/) to filter your papers, applications, and other works, even though none of these tools promise 100% accuracy.
+   - Particularly in this classroom, we value original voice. Yet, texts generated by large language models predict less diverse styles and homogeneous language patterns, leading to a “monoculture” of generated content. Beyond this classroom, relying on GenAI-generated writing might put you in a risky position when reviewers use [AI detectors](https://citl.news.niu.edu/2024/12/12/ai-detectors-an-ethical-minefield/) to filter your papers, applications, and other works, even though none of these tools promise 100% accuracy. **2026 Update**: By the time this class goes live, Anthropic has announced their plan to [put invisible watermarks on their models' AI-generated texts](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content), which would only fade under heavy paraphrasing and editing, signaling an intensifying debate surrounding transparency and and accountability.
 
 4. GenAI Perpetuates Biases
 
